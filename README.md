@@ -11,7 +11,7 @@ A simple and interactive implementation of the classic Rock Paper Scissors game,
 
 ## Demo
 
-[Live Demo Link](#) (Replace with your hosted link)
+[Live Demo Link](#) [(Replace with your hosted link)](https://github.com/Shubham270617/Rock-Paper-Game.git)
 
 ## How to Play
 
