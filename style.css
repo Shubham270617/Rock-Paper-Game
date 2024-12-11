@@ -82,3 +82,19 @@ img {
     border-radius: 1rem;
     
 }
+
+#footer{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 3rem;
+    background-color: azure;
+
+}
+
+.copyright{
+    font-size: 1.5rem;
+    color: #00b4d8;
+}
