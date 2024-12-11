@@ -9,9 +9,6 @@ A simple and interactive implementation of the classic Rock Paper Scissors game,
 - **Dynamic Gameplay**: Play against a computer opponent with randomized choices.
 - **Real-time Scoring**: Tracks the score of both the user and the computer.
 
-## Demo
-
-[Live Demo Link](#) (Replace with your hosted link)
 
 ## How to Play
 
