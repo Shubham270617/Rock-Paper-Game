@@ -4,8 +4,7 @@
 }
 
 body{
-    background-image: url("./assets/BG-img.jpg");
-   
+    background-color: #ede8f5;
     
 }
 
@@ -49,4 +48,37 @@ img {
     transform: scale(1.05);
 
    
+}
+
+.score-board{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 3rem;
+    gap: 5rem;
+    color: #00b4d8;
+}
+
+#user-score, #comp-score{
+    font-size: 4rem;
+    
+}
+
+.msg-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+#msg{
+    display: inline;
+    background-color: #adbbda;
+    font-size: 3rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    
 }
